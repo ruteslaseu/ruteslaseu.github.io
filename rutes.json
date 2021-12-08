@@ -23,8 +23,8 @@
 		{
 			"nom": "Pic de l'Orri",
 			"dificultat": "Molt Difícil",
-			"desnivell": 2844,
-			"distancia": 104.8,
+			"desnivell": 2710,
+			"distancia": 101.5,
 			"pagina": "/Rutes/PicDeLOrri/",
 			"imatge": "/Images/PicDeLOrriImages/5.jpg",
 			"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
@@ -37,14 +37,14 @@
 				"/Images/PicDeLOrriImages/6.jpg"
 			],
 			"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
-			"gpx_embed": "<iframe style='border-radius: 20px;' src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D'></a></p></iframe>",
+			"gpx_embed": "<iframe style='border-radius: 20px;' src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri.gpx%22%5D%7D'></a></p></iframe>",
 			"gpx": "/Rutes/PicDeLOrri/PicDeLOrri.gpx"
 		},
 		{
 			"nom": "Mardiscla",
 			"dificultat": "Difícil",
-			"desnivell": 846,
-			"distancia": 33.0,
+			"desnivell": 755,
+			"distancia": 30.0,
 			"pagina": "/Rutes/Mardiscla/",
 			"imatge": "/Images/MardisclaImages/1.jpg",
 			"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
@@ -264,8 +264,8 @@
 		{
 			"nom": "Sant Joan de l'Erm",
 			"dificultat": "Molt Difícil",
-			"desnivell": 0,
-			"distancia": 0,
+			"desnivell": 1788,
+			"distancia": 73.3,
 			"pagina": "/Rutes/SantJoanDeLErm/",
 			"imatge": "/Images/SantJoanImages/3.jpg",
 			"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
@@ -275,7 +275,7 @@
 				"/Images/SantJoanImages/3.jpg"
 			],
 			"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
-			"gpx_embed": "<iframe style='border-radius: 20px;' src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D'></a></p></iframe>",
+			"gpx_embed": "<iframe style='border-radius: 20px;' src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fgerardlaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm.gpx%22%5D%7D'></a></p></iframe>",
 			"gpx": "/Rutes/SantJoanDeLErm/SantJoanDeLErm.gpx"
 		},
 		{
