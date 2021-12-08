@@ -29,7 +29,12 @@ for (let i = 0; i < json.rutes.length; i++) {
     gridInnerHTML +=    `<a href='${element.pagina}'>`;
     gridInnerHTML +=        `<img src="${element.imatge}" style="width:100%">`;
     gridInnerHTML +=    "</a>";
-    gridInnerHTML +=    `<div>${element.nom}</div>`;
+    gridInnerHTML +=    `<div class="name">${element.nom}</div>`;
+    gridInnerHTML +=    `<div class="data">`;
+    gridInnerHTML +=        `<p>${element.dificultat}</p>`;
+    gridInnerHTML +=        `<p><i class="fas fa-angle-double-up"></i> ${element.desnivell}m</p>`;
+    gridInnerHTML +=        `<p><i class="fas fa-ruler"></i> ${element.distancia}km</p>`;
+    gridInnerHTML +=    `</div>`;
     gridInnerHTML += "</div>";
 }
 grid.innerHTML = gridInnerHTML;

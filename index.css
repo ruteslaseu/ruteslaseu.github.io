@@ -93,7 +93,7 @@ body {
 }
 
 
-.column div{
+.column .name{
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -108,8 +108,35 @@ body {
 	-webkit-transition: visibility 0s, opacity 0.25s linear; 
 	transition: visibility 0s, opacity 0.25s linear;
 }
+.column .data{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background: black;
+	color: white;
+	margin-bottom: 5px;
+	margin-right: 6px;
+	font-family: sans-serif;
+	opacity: 0;
+	border-radius: 25px;
+	visibility: hidden;
+	-webkit-transition: visibility 0s, opacity 0.25s linear; 
+	transition: visibility 0s, opacity 0.25s linear;
+}
+.column .data p {
+	margin-top: -10px;
+	margin-bottom: -2px;
+	padding-top: 10px;
+	padding-bottom: -10px;
+}
 
-.column:hover div{
+.column:hover .name{
+	padding: 8px 15px;
+	visibility: visible;
+	opacity: 0.8;
+	pointer-events: none;
+}
+.column:hover .data{
 	padding: 8px 15px;
 	visibility: visible;
 	opacity: 0.8;
@@ -120,7 +147,7 @@ body {
 	border-radius: 20px;
 	transition-duration: 250ms;
 }
-.column img:hover{
+.column:hover img{
 	transform: scale(1.05);
 }
 .grid::after {
