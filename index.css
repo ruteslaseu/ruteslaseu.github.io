@@ -123,8 +123,51 @@ body {
 .column img:hover{
 	transform: scale(1.05);
 }
-.row::after {
+.grid::after {
 	content: "";
 	clear: both;
 	display: table;
+}
+
+.list_element {
+	border-radius: 20px;
+}
+.list_element h3 {
+	margin-bottom: 0px;
+}
+.list_element .list_data {
+	display: flex;
+	padding-left: 5px;
+}
+.list_element .list_data p {
+	margin-right: 100px;
+}
+@media screen and (max-width: 570px) {
+	.list_element .list_data {
+		display: inline;
+	}
+	.list_element h3 {
+		margin-bottom: -20px;
+	}
+	.list_element .list_data p {
+		margin-right: 0px;
+		padding-left: 5px;
+		padding-bottom: 7px;
+	}
+}
+@media screen and (max-width: 830px) {
+	.list {
+		display: inherit;
+	}
+	.grid {
+		display: none;
+	}
+}
+@media screen and (min-width: 830px) {
+	.list {
+		display: none;
+	}
+	.grid {
+		display: inherit;
+	}
 }

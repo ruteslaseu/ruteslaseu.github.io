@@ -1,0 +1,156 @@
+{
+	"rutes": [
+		{
+			"nom": "Monturull",
+			"dificultat": "Molt Difícil",
+			"desnivell": 2312,
+			"distancia": 72.1,
+			"pagina": "/Rutes/Monturull/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Pic de l'Orri",
+			"dificultat": "Molt Difícil",
+			"desnivell": 2844,
+			"distancia": 104.8,
+			"pagina": "/Rutes/PicDeLOrri/",
+			"imatge": "/Images/PicDeLOrriImages/5.jpg"
+		},
+		{
+			"nom": "Mardiscla",
+			"dificultat": "Difícil",
+			"desnivell": 846,
+			"distancia": 33.0,
+			"pagina": "/Rutes/Mardiscla/",
+			"imatge": "/Images/MardisclaImages/1.jpg"
+		},
+		{
+			"nom": "Tallafocs",
+			"dificultat": "Moderada",
+			"desnivell": 386,
+			"distancia": 14.2,
+			"pagina": "/Rutes/Tallafocs/",
+			"imatge": "/Images/TallafocsImages/1.jpg"
+		},
+		{
+			"nom": "Serra d'Arfa",
+			"dificultat": "Difícil",
+			"desnivell": 660,
+			"distancia": 28.1,
+			"pagina": "/Rutes/SerraDArfa/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Segars",
+			"dificultat": "Difícil",
+			"desnivell": 702,
+			"distancia": 25.8,
+			"pagina": "/Rutes/Segars/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Volta a Alàs",
+			"dificultat": "Fàcil",
+			"desnivell": 47,
+			"distancia": 10.2,
+			"pagina": "/Rutes/VoltaAlas/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Les Peces",
+			"dificultat": "Moderada",
+			"desnivell": 229,
+			"distancia": 16.4,
+			"pagina": "/Rutes/LesPeces/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Volta a Lletó",
+			"dificultat": "Difícil",
+			"desnivell": 893,
+			"distancia": 34.2,
+			"pagina": "/Rutes/VoltaLleto/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "La Rabassa",
+			"dificultat": "Molt Difícil",
+			"desnivell": 1684,
+			"distancia": 58.2,
+			"pagina": "/Rutes/LaRabassa/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Arcavell",
+			"dificultat": "Molt Difícil",
+			"desnivell": 1140,
+			"distancia": 40.2,
+			"pagina": "/Rutes/Arcavell/",
+			"imatge": "/Images/ArcavellImages/3.jpg"
+		},
+		{
+			"nom": "Benavarre",
+			"dificultat": "Moderada",
+			"desnivell": 131,
+			"distancia": 6.8,
+			"pagina": "/Rutes/Benavarre/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Benavarre - Anserall",
+			"dificultat": "Moderada",
+			"desnivell": 205,
+			"distancia": 12.4,
+			"pagina": "/Rutes/Benavarre-Anserall/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Sant Antoni",
+			"dificultat": "Moderada",
+			"desnivell": 219,
+			"distancia": 11.4,
+			"pagina": "/Rutes/SantAntoni/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Pla de Sant Tirs",
+			"dificultat": "Moderada",
+			"desnivell": 122,
+			"distancia": 18.8,
+			"pagina": "/Rutes/PlaDeSantTirs/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Sant Joan de l'Erm",
+			"dificultat": "Molt Difícil",
+			"desnivell": 0,
+			"distancia": 0,
+			"pagina": "/Rutes/SantJoanDeLErm/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "El Balcó del Pirineu",
+			"dificultat": "Moderada",
+			"desnivell": 0,
+			"distancia": 0,
+			"pagina": "/Rutes/BalcoDelPirineu/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Anserall",
+			"dificultat": "Moderada",
+			"desnivell": 240,
+			"distancia": 12.5,
+			"pagina": "/Rutes/Anserall/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		},
+		{
+			"nom": "Castellbò",
+			"dificultat": "Difícil",
+			"desnivell": 0,
+			"distancia": 0,
+			"pagina": "/Rutes/Castellbo/",
+			"imatge": "/Images/MonturullImages/3.jpg"
+		}
+	]
+}
