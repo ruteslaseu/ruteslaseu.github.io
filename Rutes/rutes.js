@@ -15,6 +15,7 @@ function loadRoute(index){
     header.innerHTML = `<h2>${element.nom}</h2>`;
 
     innerHTML += element.gpx_embed;
+    innerHTML += `<p><i class="far fa-calendar"></i> ${element.estació}</p>`;
     innerHTML += element.descripció1;
     innerHTML += "<div class='row'>"
     for (let i = 0; i < element.galeria.length; i++) {
