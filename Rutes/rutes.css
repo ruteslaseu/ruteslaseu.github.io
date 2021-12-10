@@ -109,3 +109,61 @@ iframe {
 	clear: both;
 	display: table;
 }
+
+.variant-button {
+	padding: 7px 15px;
+	border-radius: 30px;
+	border-top: 4px solid transparent;
+	border: 5px solid  #166EC0;
+	cursor: pointer;
+	transition: 250ms;
+	background-color: #E8AA14;
+}
+.variant-button:hover {
+	background-color: #ffd000;
+}
+.variant-button p {
+	text-align: center;
+	margin: 0;
+	padding: -7px -15px;
+	user-select: none;
+	color: #2f2c48;
+}
+
+.variants {
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, .5);
+	background-color: #166EC0;
+	color: whitesmoke;
+	padding: 20px;
+	margin-top: 20px;
+	border-radius: 28px;
+}
+
+@media screen and (min-width: 550px) {
+	.variants::after {
+		content: "";
+		clear: both;
+		display: table;
+	}
+
+	.variant-button {
+		width: 20%;
+		float: left;
+	}
+
+	.variants {
+		margin-bottom: 20px;
+		width: 100%;
+	}
+}
+@media screen and (max-width: 550px) {
+	.variants {
+		margin-bottom: 20px;
+	}
+	.variant-button {
+		display: inherit;
+	}
+	.variant-button:not(:last-child) {
+		margin-bottom: 5px;
+	}
+}
