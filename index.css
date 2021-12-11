@@ -220,10 +220,11 @@ body {
 }
 @media screen and (max-width: 570px) {
 	.list_element .list_data {
-		display: inline;
+		display: inherit;
 	}
 	.list_element h3 {
-		margin-bottom: -30px;
+		margin-bottom: -15px;
+		margin-left: 5px;
 	}
 	.list_element .list_data p {
 		margin-right: 0px;
