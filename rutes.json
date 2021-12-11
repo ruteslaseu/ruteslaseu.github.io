@@ -7,7 +7,7 @@
 			"distancia": 72.1,
 			"pagina": "/Rutes/Monturull/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg",
@@ -21,14 +21,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMonturull%2FMonturull.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMonturull%2FMonturull.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Monturull/Monturull.gpx",
-					"estació": "Primavera / Estiu / Tardor"
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 5.55
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMonturull%2FMonturull1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMonturull%2FMonturull1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Monturull/Monturull1.gpx",
-					"estació": "Primavera / Estiu / Tardor"
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 6.06
 				}
 			]
 		},
@@ -39,7 +43,7 @@
 			"distancia": 101.5,
 			"pagina": "/Rutes/PicDeLOrri/",
 			"imatge": "/Images/PicDeLOrriImages/5.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/PicDeLOrriImages/1.jpg",
 				"/Images/PicDeLOrriImages/2.jpg",
 				"/Images/PicDeLOrriImages/3.jpg",
@@ -53,14 +57,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/PicDeLOrri/PicDeLOrri.gpx",
-					"estació": "Primavera / Estiu / Tardor"
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 7.81
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPicDeLOrri%2FPicDeLOrri1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/PicDeLOrri/PicDeLOrri.gpx",
-					"estació": "Primavera / Estiu / Tardor"
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 7.25
 				}
 			]
 		},
@@ -71,7 +79,7 @@
 			"distancia": 30.0,
 			"pagina": "/Rutes/Mardiscla/",
 			"imatge": "/Images/MardisclaImages/1.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MardisclaImages/1.jpg",
 				"/Images/MardisclaImages/2.jpg",
 				"/Images/MardisclaImages/3.jpg"
@@ -82,7 +90,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Mardiscla/Mardiscla.gpx",
-					"estació": "Tot l'any"	
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 2.31
 				}
 			]
 		},
@@ -93,7 +103,7 @@
 			"distancia": 14.2,
 			"pagina": "/Rutes/Tallafocs/",
 			"imatge": "/Images/TallafocsImages/1.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/TallafocsImages/1.jpg",
 				"/Images/TallafocsImages/2.jpg",
 				"/Images/TallafocsImages/3.jpg"
@@ -104,14 +114,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FTallafocs%2FTallafocs.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FTallafocs%2FTallafocs.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Tallafocs/Tallafocs.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 1.09
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FTallafocs%2FTallafocs1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FTallafocs%2FTallafocs1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Tallafocs/Tallafocs.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 1.13
 				}
 			]
 		},
@@ -122,7 +136,7 @@
 			"distancia": 28.1,
 			"pagina": "/Rutes/SerraDArfa/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -133,7 +147,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSerraDArfa%2FSerraArfa.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSerraDArfa%2FSerraArfa.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/SerraDArfa/SerraArfa.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 2.16
 				}
 			]
 		},
@@ -144,7 +160,7 @@
 			"distancia": 25.8,
 			"pagina": "/Rutes/Segars/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -155,7 +171,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSegars%2FSegars.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSegars%2FSegars.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Segars/Segars.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 1.98
 				}
 			]
 		},
@@ -166,7 +184,7 @@
 			"distancia": 10.2,
 			"pagina": "/Rutes/VoltaAlas/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -177,14 +195,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaAlas%2FVoltaAlas.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaAlas%2FVoltaAlas.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/VoltaAlas/VoltaAlas.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.78
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaAlas%2FVoltaAlas1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaAlas%2FVoltaAlas1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/VoltaAlas/VoltaAlas.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.83
 				}
 			]
 		},
@@ -195,7 +217,7 @@
 			"distancia": 16.4,
 			"pagina": "/Rutes/LesPeces/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -206,7 +228,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLesPeces%2FLesPeces.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLesPeces%2FLesPeces.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/LesPeces/LesPeces.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 1.26
 				}
 			]
 		},
@@ -217,7 +241,7 @@
 			"distancia": 34.2,
 			"pagina": "/Rutes/VoltaLleto/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -228,7 +252,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaLleto%2FVoltaLlet%C3%B3.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FVoltaLleto%2FVoltaLlet%C3%B3.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/VoltaLleto/VoltaLletó.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 2.63
 				}
 			]
 		},
@@ -239,7 +265,7 @@
 			"distancia": 58.2,
 			"pagina": "/Rutes/LaRabassa/",
 			"imatge": "/Images/LaRabassaImages/1.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/LaRabassaImages/1.jpg",
 				"/Images/LaRabassaImages/2.jpg",
 				"/Images/LaRabassaImages/3.jpg"
@@ -250,7 +276,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLaRabassa%2FLaRabassa.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLaRabassa%2FLaRabassa.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/LaRabassa/LaRabassa.gpx",
-					"estació": "Primavera / Estiu / Tardor"		
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 4.48
 				}
 			]
 		},
@@ -261,7 +289,7 @@
 			"distancia": 40.2,
 			"pagina": "/Rutes/Arcavell/",
 			"imatge": "/Images/ArcavellImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/ArcavellImages/1.jpg",
 				"/Images/ArcavellImages/2.jpg",
 				"/Images/ArcavellImages/3.jpg"
@@ -272,14 +300,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Arcavell/Arcavell.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "No",
+					"temps": 3.25
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Arcavell/Arcavell.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 2.72
 				}
 			]
 		},
@@ -290,7 +322,7 @@
 			"distancia": 6.8,
 			"pagina": "/Rutes/Benavarre/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -301,14 +333,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre%2FBenavarre.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre%2FBenavarre.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Benavarre/Benavarre.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.52
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre%2FBenavarre1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre%2FBenavarre1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Benavarre/Benavarre.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.88
 				}
 			]
 		},
@@ -319,7 +355,7 @@
 			"distancia": 12.4,
 			"pagina": "/Rutes/Benavarre-Anserall/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -330,7 +366,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre-Anserall%2FBenavarreAnserall.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FBenavarre-Anserall%2FBenavarreAnserall.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Benavarre-Anserall/BenavarreAnserall.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.95
 				}
 			]
 		},
@@ -341,7 +379,7 @@
 			"distancia": 11.4,
 			"pagina": "/Rutes/SantAntoni/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -352,14 +390,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantAntoni%2FSantAntoni.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantAntoni%2FSantAntoni.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/SantAntoni/SantAntoni.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "No",
+					"temps": 0.88
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantAntoni%2FSantAntoni1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantAntoni%2FSantAntoni1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/SantAntoni/SantAntoni.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Semi",
+					"temps": 0.87
 				}
 			]
 		},
@@ -370,7 +412,7 @@
 			"distancia": 18.8,
 			"pagina": "/Rutes/PlaDeSantTirs/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -381,7 +423,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPlaDeSantTirs%2FPlaDeSantTirs.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FPlaDeSantTirs%2FPlaDeSantTirs.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/PlaDeSantTirs/PlaDeSantTirs.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "No",
+					"temps": 1.45
 				}
 			]
 		},
@@ -392,7 +436,7 @@
 			"distancia": 73.3,
 			"pagina": "/Rutes/SantJoanDeLErm/",
 			"imatge": "/Images/SantJoanImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/SantJoanImages/1.jpg",
 				"/Images/SantJoanImages/2.jpg",
 				"/Images/SantJoanImages/3.jpg"
@@ -403,14 +447,18 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/SantJoanDeLErm/SantJoanDeLErm.gpx",
-					"estació": "Primavera / Estiu / Tardor"		
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Sí",
+					"temps": 5.64
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FSantJoanDeLErm%2FSantJoanDeLErm1.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/SantJoanDeLErm/SantJoanDeLErm.gpx",
-					"estació": "Primavera / Estiu / Tardor"		
+					"estació": "Primavera / Estiu / Tardor",
+					"circular": "Semi",
+					"temps": 5.23
 				}
 			]
 		},
@@ -421,7 +469,7 @@
 			"distancia": 0,
 			"pagina": "/Rutes/BalcoDelPirineu/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -432,7 +480,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Mardiscla/Mardiscla.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.0
 				}
 			]
 		},
@@ -443,7 +493,7 @@
 			"distancia": 12.5,
 			"pagina": "/Rutes/Anserall/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -454,7 +504,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FAnserall%2FAnserall.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FAnserall%2FAnserall.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Anserall/Anserall.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.96
 				}
 			]
 		},
@@ -465,7 +517,7 @@
 			"distancia": 0,
 			"pagina": "/Rutes/Castellbo/",
 			"imatge": "/Images/MonturullImages/3.jpg",
-			"galeria":[
+			"galeria": [
 				"/Images/MonturullImages/1.jpg",
 				"/Images/MonturullImages/2.jpg",
 				"/Images/MonturullImages/3.jpg"
@@ -476,7 +528,9 @@
 					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
 					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla.gpx%22%5D%7D'></a></p></iframe>",
 					"gpx": "/Rutes/Mardiscla/Mardiscla.gpx",
-					"estació": "Tot l'any"		
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 0.0
 				}
 			]
 		}
