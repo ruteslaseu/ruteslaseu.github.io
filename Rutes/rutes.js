@@ -30,12 +30,14 @@ function loadRoute(index, variant) {
 	}
 
 	innerHTML += element.variants[variant].gpx_embed;
-	innerHTML += "<div class='route-data'>"
+	innerHTML += "<div class='route-data'>";
 	innerHTML += `<p title="Estacions"><i class="far fa-calendar"></i> ${element.variants[variant].estació}</p>`;
 	innerHTML += `<p title="Circular"><i class="fas fa-undo-alt"></i> ${element.variants[variant].circular}</p>`;
 	//Average: 13km/h
-	innerHTML += `<p title="Duració (Només temps sobre rodes)"><i class="far fa-clock"></i> ${hoursToHHMM(element.variants[variant].temps)}</p>`;
-	innerHTML += "</div>"
+	innerHTML += `<p title="Duració (Només temps sobre rodes)"><i class="far fa-clock"></i> ${hoursToHHMM(
+		element.variants[variant].temps
+	)}</p>`;
+	innerHTML += "</div>";
 	innerHTML += element.variants[variant].descripció1;
 	innerHTML += "<div class='row'>";
 	for (let i = 0; i < element.galeria.length; i++) {
