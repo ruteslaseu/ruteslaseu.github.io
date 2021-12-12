@@ -37,7 +37,7 @@ for (let i = 0; i < json.rutes.length; i++) {
 	gridInnerHTML += `<a href='${element.pagina}'>`;
 	gridInnerHTML += `<img src="${
 		element.imatge
-	}" style="width:100%; border: 3px solid ${getColor(element)};">`;
+	}" style="width:100%; border: 3px solid ${getColor(element)}; background-color: ${getColor(element)};">`;
 	gridInnerHTML += "</a>";
 	gridInnerHTML += `<div class="name" style="background: ${getColor(
 		element
