@@ -135,11 +135,11 @@
 			"desnivell": 660,
 			"distancia": 28.1,
 			"pagina": "/Rutes/SerraDArfa/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -159,11 +159,11 @@
 			"desnivell": 702,
 			"distancia": 25.8,
 			"pagina": "/Rutes/Segars/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -183,11 +183,11 @@
 			"desnivell": 47,
 			"distancia": 10.2,
 			"pagina": "/Rutes/VoltaAlas/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -216,11 +216,11 @@
 			"desnivell": 229,
 			"distancia": 16.4,
 			"pagina": "/Rutes/LesPeces/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/Images/LesPecesImages/2.jpg",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/Images/LesPecesImages/1.jpg",
+				"/Images/LesPecesImages/2.jpg",
+				"/Images/LesPecesImages/3.jpg"
 			],
 			"variants": [
 				{
@@ -240,11 +240,14 @@
 			"desnivell": 893,
 			"distancia": 34.2,
 			"pagina": "/Rutes/VoltaLleto/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/Images/VoltaLletoImages/3.jpg",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/Images/VoltaLletoImages/1.jpg",
+				"/Images/VoltaLletoImages/2.jpg",
+				"/Images/VoltaLletoImages/3.jpg",
+				"/Images/VoltaLletoImages/4.jpg",
+				"/Images/VoltaLletoImages/5.jpg",
+				"/Images/VoltaLletoImages/6.jpg"
 			],
 			"variants": [
 				{
@@ -263,7 +266,7 @@
 					"gpx": "/Rutes/VoltaLleto/VoltaLletó1.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 2.63
+					"temps": 2.72
 				}
 			]
 		},
@@ -330,11 +333,11 @@
 			"desnivell": 131,
 			"distancia": 6.8,
 			"pagina": "/Rutes/Benavarre/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -363,11 +366,11 @@
 			"desnivell": 205,
 			"distancia": 12.4,
 			"pagina": "/Rutes/Benavarre-Anserall/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -386,7 +389,7 @@
 					"gpx": "/Rutes/Benavarre-Anserall/BenavarreAnserall1.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 0.95
+					"temps": 1.15
 				}
 			]
 		},
@@ -396,11 +399,11 @@
 			"desnivell": 219,
 			"distancia": 11.4,
 			"pagina": "/Rutes/SantAntoni/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/Images/SantAntoniImages/3.jpg",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/Images/SantAntoniImages/1.jpg",
+				"/Images/SantAntoniImages/2.jpg",
+				"/Images/SantAntoniImages/3.jpg"
 			],
 			"variants": [
 				{
@@ -428,7 +431,7 @@
 					"gpx": "/Rutes/SantAntoni/SantAntoni2.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 0.87
+					"temps": 1.11
 				}
 			]
 		},
@@ -438,11 +441,11 @@
 			"desnivell": 122,
 			"distancia": 18.8,
 			"pagina": "/Rutes/PlaDeSantTirs/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -495,11 +498,11 @@
 			"desnivell": 0,
 			"distancia": 0,
 			"pagina": "/Rutes/BalcoDelPirineu/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -519,11 +522,11 @@
 			"desnivell": 240,
 			"distancia": 12.5,
 			"pagina": "/Rutes/Anserall/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
@@ -543,11 +546,11 @@
 			"desnivell": 0,
 			"distancia": 0,
 			"pagina": "/Rutes/Castellbo/",
-			"imatge": "/Images/MonturullImages/3.jpg",
+			"imatge": "/assets/OGCard.png",
 			"galeria": [
-				"/Images/MonturullImages/1.jpg",
-				"/Images/MonturullImages/2.jpg",
-				"/Images/MonturullImages/3.jpg"
+				"/assets/OGCard.png",
+				"/assets/OGCard.png",
+				"/assets/OGCard.png"
 			],
 			"variants": [
 				{
