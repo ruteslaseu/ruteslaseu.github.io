@@ -118,3 +118,31 @@ function clickDifficulty(index, id) {
 		}
 	}
 }
+
+var gridEnabled = true;
+function clickDisplay(){
+	gridEnabled ^= true;
+
+	if(gridEnabled){
+		document.getElementById(`displaySelector`).getElementsByTagName("p")[0].innerHTML = '<i class="fas fa-th-large"></i> Graella';
+		
+		document.querySelector(".grid").style.display = "inherit";
+		document.querySelector(".list").style.display = "none";
+	}else{
+		document.getElementById(`displaySelector`).getElementsByTagName("p")[0].innerHTML = '<i class="fas fa-list-ul"></i> Llista';
+
+		document.querySelector(".grid").style.display = "none";
+		document.querySelector(".list").style.display = "inherit";
+	}
+}
+window.onresize = window.onload = function() {
+	if(this.innerWidth < 830){
+		document.getElementById('displaySelector').style.display = "none";
+		document.querySelector(".grid").style.display = null;
+		document.querySelector(".list").style.display = null;
+	}else{
+		document.getElementById('displaySelector').style.display = "inherit";
+		document.querySelector(".grid").style.display = (gridEnabled ? "inherit" : "none");
+		document.querySelector(".list").style.display = (gridEnabled ? "none" : "inherit");
+	}
+}
