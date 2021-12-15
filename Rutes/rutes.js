@@ -38,7 +38,7 @@ function loadRoute(index, variant) {
 		element.variants[variant].temps
 	)}</p>`;
 	innerHTML += "</div>";
-	innerHTML += element.variants[variant].descripció1;
+	innerHTML += `<p>${element.variants[variant].descripció1}</p>`;
 	innerHTML += "<div class='row'>";
 	for (let i = 0; i < element.galeria.length; i++) {
 		const image = element.galeria[i];
@@ -47,7 +47,7 @@ function loadRoute(index, variant) {
 		innerHTML += "</div>";
 	}
 	innerHTML += "</div>";
-	innerHTML += element.variants[variant].descripció2;
+	innerHTML += `<p>${element.variants[variant].descripció2}</p>`;
 	card.innerHTML = innerHTML;
 
 	download.innerHTML = `<a href="${element.variants[variant].gpx}"><button class="link-button"><img src="/assets/gpx-file-format-variant.png"></button></a>`;
