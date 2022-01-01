@@ -8,8 +8,12 @@ request.open("GET", "/rutes.json", false);
 request.send(null);
 var json = JSON.parse(request.responseText);
 
-function loadRoute(index, variant) {
+function loadRoute(referenceName, variant) {
 	var innerHTML = "";
+
+	var index = json.rutes.findIndex(function(item, i){
+		return item.referenceName === referenceName
+	});
 	const element = json.rutes[index];
 
 	document.title = `${element.nom} \u2013 Rutes BTT`;
@@ -20,7 +24,7 @@ function loadRoute(index, variant) {
 		}</p>`;
 		var variantButtons = "";
 		for (let i = 0; i < element.variants.length; i++) {
-			variantButtons += `<a class="variant-button" role="button" onclick="loadRoute(${index}, ${i})"><p>Variant ${
+			variantButtons += `<a class="variant-button" role="button" onclick="loadVariant(${i})"><p>Variant ${
 				i + 1
 			}</p></a>`;
 		}
@@ -51,6 +55,12 @@ function loadRoute(index, variant) {
 	card.innerHTML = innerHTML;
 
 	download.innerHTML = `<a href="${element.variants[variant].gpx}"><button class="link-button"><img src="/assets/gpx-file-format-variant.png"></button></a>`;
+}
+
+function loadVariant(variant){
+	var path = window.location.pathname;
+	var page = path.split("/")[2];
+	loadRoute(page, variant);
 }
 
 function hoursToHHMM(hours) {
