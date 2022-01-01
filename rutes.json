@@ -1,6 +1,7 @@
 {
 	"rutes": [
 		{
+			"referenceName": "Monturull",
 			"nom": "Monturull",
 			"dificultat": "Molt Difícil",
 			"desnivell": 2312,
@@ -37,6 +38,7 @@
 			]
 		},
 		{
+			"referenceName": "PicDeLOrri",
 			"nom": "Pic de l'Orri",
 			"dificultat": "Molt Difícil",
 			"desnivell": 2710,
@@ -73,6 +75,7 @@
 			]
 		},
 		{
+			"referenceName": "Mardiscla",
 			"nom": "Mardiscla",
 			"dificultat": "Difícil",
 			"desnivell": 755,
@@ -97,6 +100,7 @@
 			]
 		},
 		{
+			"referenceName": "Tallafocs",
 			"nom": "Tallafocs",
 			"dificultat": "Moderada",
 			"desnivell": 386,
@@ -130,6 +134,7 @@
 			]
 		},
 		{
+			"referenceName": "SerraDArfa",
 			"nom": "Serra d'Arfa",
 			"dificultat": "Difícil",
 			"desnivell": 660,
@@ -154,6 +159,7 @@
 			]
 		},
 		{
+			"referenceName": "Segars",
 			"nom": "Segars",
 			"dificultat": "Difícil",
 			"desnivell": 702,
@@ -178,6 +184,7 @@
 			]
 		},
 		{
+			"referenceName": "VoltaAlas",
 			"nom": "Volta a Alàs",
 			"dificultat": "Fàcil",
 			"desnivell": 47,
@@ -211,6 +218,7 @@
 			]
 		},
 		{
+			"referenceName": "LesPeces",
 			"nom": "Les Peces",
 			"dificultat": "Moderada",
 			"desnivell": 229,
@@ -235,6 +243,7 @@
 			]
 		},
 		{
+			"referenceName": "VoltaLleto",
 			"nom": "Volta a Lletó",
 			"dificultat": "Difícil",
 			"desnivell": 893,
@@ -271,6 +280,7 @@
 			]
 		},
 		{
+			"referenceName": "LaRabassa",
 			"nom": "La Rabassa",
 			"dificultat": "Molt Difícil",
 			"desnivell": 1684,
@@ -295,6 +305,7 @@
 			]
 		},
 		{
+			"referenceName": "Arcavell",
 			"nom": "Arcavell",
 			"dificultat": "Molt Difícil",
 			"desnivell": 1140,
@@ -328,6 +339,7 @@
 			]
 		},
 		{
+			"referenceName": "Benavarre",
 			"nom": "Benavarre",
 			"dificultat": "Moderada",
 			"desnivell": 131,
@@ -361,6 +373,7 @@
 			]
 		},
 		{
+			"referenceName": "Benavarre-Anserall",
 			"nom": "Benavarre - Anserall",
 			"dificultat": "Moderada",
 			"desnivell": 205,
@@ -394,6 +407,7 @@
 			]
 		},
 		{
+			"referenceName": "SantAntoni",
 			"nom": "Ermita de Sant Antoni",
 			"dificultat": "Moderada",
 			"desnivell": 219,
@@ -436,6 +450,7 @@
 			]
 		},
 		{
+			"referenceName": "PlaDeSantTirs",
 			"nom": "El Pla de Sant Tirs",
 			"dificultat": "Moderada",
 			"desnivell": 122,
@@ -460,6 +475,7 @@
 			]
 		},
 		{
+			"referenceName": "SantJoanDeLErm",
 			"nom": "Sant Joan de l'Erm",
 			"dificultat": "Molt Difícil",
 			"desnivell": 1788,
@@ -493,6 +509,7 @@
 			]
 		},
 		{
+			"referenceName": "BalcoDelPirineu",
 			"nom": "El Balcó del Pirineu",
 			"dificultat": "Moderada",
 			"desnivell": 0,
@@ -517,6 +534,7 @@
 			]
 		},
 		{
+			"referenceName": "Anserall",
 			"nom": "Anserall",
 			"dificultat": "Moderada",
 			"desnivell": 240,
@@ -541,6 +559,7 @@
 			]
 		},
 		{
+			"referenceName": "Castellbo",
 			"nom": "Castellbò",
 			"dificultat": "Difícil",
 			"desnivell": 0,
