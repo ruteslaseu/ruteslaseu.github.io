@@ -537,8 +537,8 @@
 			"referenceName": "Castellbo",
 			"nom": "Castellbò",
 			"dificultat": "Difícil",
-			"desnivell": 999,
-			"distancia": 999,
+			"desnivell": 0,
+			"distancia": 0,
 			"pagina": "/Rutes/Castellbo/",
 			"imatge": "/assets/OGCard.png",
 			"galeria": [
@@ -554,7 +554,7 @@
 					"gpx": "/Rutes/Mardiscla/Mardiscla.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 999.0
+					"temps": 0.0
 				}
 			]
 		}
