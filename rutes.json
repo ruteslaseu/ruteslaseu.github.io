@@ -42,7 +42,7 @@
 			"nom": "Pic de l'Orri",
 			"dificultat": "Molt Difícil",
 			"desnivell": 2710,
-			"distancia": 101.5,
+			"distancia": 101.6,
 			"pagina": "/Rutes/PicDeLOrri/",
 			"imatge": "/Images/PicDeLOrriImages/5.jpg",
 			"galeria": [
@@ -61,7 +61,7 @@
 					"gpx": "/Rutes/PicDeLOrri/PicDeLOrri.gpx",
 					"estació": "Primavera / Estiu / Tardor",
 					"circular": "Sí",
-					"temps": 7.81
+					"temps": 7.82
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
@@ -70,7 +70,7 @@
 					"gpx": "/Rutes/PicDeLOrri/PicDeLOrri1.gpx",
 					"estació": "Primavera / Estiu / Tardor",
 					"circular": "Sí",
-					"temps": 7.25
+					"temps": 7.54
 				}
 			]
 		},
@@ -479,7 +479,7 @@
 			"nom": "Sant Joan de l'Erm",
 			"dificultat": "Molt Difícil",
 			"desnivell": 1788,
-			"distancia": 73.3,
+			"distancia": 73.5,
 			"pagina": "/Rutes/SantJoanDeLErm/",
 			"imatge": "/Images/SantJoanImages/3.jpg",
 			"galeria": [
@@ -495,7 +495,7 @@
 					"gpx": "/Rutes/SantJoanDeLErm/SantJoanDeLErm.gpx",
 					"estació": "Primavera / Estiu / Tardor",
 					"circular": "Sí",
-					"temps": 5.64
+					"temps": 5.65
 				},
 				{
 					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
@@ -504,7 +504,7 @@
 					"gpx": "/Rutes/SantJoanDeLErm/SantJoanDeLErm1.gpx",
 					"estació": "Primavera / Estiu / Tardor",
 					"circular": "Semi",
-					"temps": 5.23
+					"temps": 5.52
 				}
 			]
 		},
@@ -537,8 +537,8 @@
 			"referenceName": "Castellbo",
 			"nom": "Castellbò",
 			"dificultat": "Difícil",
-			"desnivell": 0,
-			"distancia": 0,
+			"desnivell": 659,
+			"distancia": 37.7,
 			"pagina": "/Rutes/Castellbo/",
 			"imatge": "/assets/OGCard.png",
 			"galeria": [
@@ -554,7 +554,7 @@
 					"gpx": "/Rutes/Castellbo/Castellbo.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 0.0
+					"temps": 2.9
 				}
 			]
 		},
@@ -562,8 +562,8 @@
 			"referenceName": "MardisclaVilamitjana",
 			"nom": "Mardiscla - Vilamitjana",
 			"dificultat": "Difícil",
-			"desnivell": 0,
-			"distancia": 0,
+			"desnivell": 986,
+			"distancia": 42.5,
 			"pagina": "/Rutes/MardisclaVilamitjana/",
 			"imatge": "/assets/OGCard.png",
 			"galeria": [
@@ -579,7 +579,7 @@
 					"gpx": "/Rutes/MardisclaVilamitjana/MardisclaVilamitjana.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 0.0
+					"temps": 3.27
 				}
 			]
 		}
