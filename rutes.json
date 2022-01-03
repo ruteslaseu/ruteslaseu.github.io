@@ -78,8 +78,8 @@
 			"referenceName": "Mardiscla",
 			"nom": "Mardiscla",
 			"dificultat": "Difícil",
-			"desnivell": 755,
-			"distancia": 30.0,
+			"desnivell": 725,
+			"distancia": 31.4,
 			"pagina": "/Rutes/Mardiscla/",
 			"imatge": "/Images/MardisclaImages/1.jpg",
 			"galeria": [
@@ -95,7 +95,16 @@
 					"gpx": "/Rutes/Mardiscla/Mardiscla.gpx",
 					"estació": "Tot l'any",
 					"circular": "Sí",
-					"temps": 2.31
+					"temps": 2.41
+				},
+				{
+					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla1.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FMardiscla%2FMardiscla1.gpx%22%5D%7D'></a></p></iframe>",
+					"gpx": "/Rutes/Mardiscla/Mardiscla1.gpx",
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 2.93
 				}
 			]
 		},
@@ -561,7 +570,7 @@
 		{
 			"referenceName": "MardisclaVilamitjana",
 			"nom": "Mardiscla - Vilamitjana",
-			"dificultat": "Difícil",
+			"dificultat": "Molt Difícil",
 			"desnivell": 986,
 			"distancia": 42.5,
 			"pagina": "/Rutes/MardisclaVilamitjana/",
