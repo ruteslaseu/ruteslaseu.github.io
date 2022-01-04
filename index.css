@@ -249,3 +249,25 @@ body {
 		display: inherit;
 	}
 }
+
+.mailto-section {
+	display: flex;
+	margin-bottom: 20px;
+}
+.mailto-button {
+	text-decoration: none;
+	margin: auto;
+	padding: 7px 15px;
+	border-radius: 30px;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.5);
+	cursor: pointer;
+	transition: 250ms;
+}
+.mailto-button:hover {
+	transform: scale(1.1);
+}
+.mailto-button p {
+	margin: 0;
+	padding: -7px -15px;
+	user-select: none;
+}
