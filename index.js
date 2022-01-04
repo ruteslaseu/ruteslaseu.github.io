@@ -47,12 +47,15 @@ for (let i = 0; i < json.rutes.length; i++) {
 	gridInnerHTML += `<div class="data">`;
 	gridInnerHTML += `<p>${element.dificultat}</p>`;
 	gridInnerHTML += `<p><i class="fas fa-angle-double-up"></i> ${element.desnivell}m</p>`;
-	gridInnerHTML += `<p><i class="fas fa-ruler"></i> ${element.distancia}km</p>`;
+	gridInnerHTML += `<p><i class="fas fa-ruler"></i> ${numberWithCommas(element.distancia)}km</p>`;
 	gridInnerHTML += `</div>`;
 	gridInnerHTML += "</div>";
 }
 grid.innerHTML = gridInnerHTML;
 
+function numberWithCommas(x) {
+    return x.toString().replace(".", ",");
+}
 function getColor(json) {
 	switch (json.dificultat) {
 		case "Molt Difícil":
