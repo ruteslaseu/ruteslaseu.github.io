@@ -549,11 +549,11 @@
 			"desnivell": 659,
 			"distancia": 37.7,
 			"pagina": "/Rutes/Castellbo/",
-			"imatge": "/assets/OGCard.png",
+			"imatge": "/Images/CastellboImages/3.jpg",
 			"galeria": [
-				"/assets/OGCard.png",
-				"/assets/OGCard.png",
-				"/assets/OGCard.png"
+				"/Images/CastellboImages/1.jpg",
+				"/Images/CastellboImages/2.jpg",
+				"/Images/CastellboImages/3.jpg"
 			],
 			"variants": [
 				{
