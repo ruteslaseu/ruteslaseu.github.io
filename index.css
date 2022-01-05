@@ -2,6 +2,7 @@
 	box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 body {
 	font-family: "Source Sans Pro", sans-serif;
 	background: linear-gradient(180deg, #dff3f8 0%, #d9f5f5 100%);

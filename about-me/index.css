@@ -1,13 +1,14 @@
 html {
 	height: 100%;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 body {
 	font-family: "Source Sans Pro", sans-serif;
-	padding: 1em;
 	background: linear-gradient(180deg, #dff3f8 0%, #d9f5f5 100%);
-	justify-content: space-around;
 	color: #2f2c48;
 	font-size: 20px;
+	padding: 20px;
 }
 
 @media screen and (min-width: 960px) {
