@@ -8,7 +8,18 @@ body {
 	background: linear-gradient(180deg, #dff3f8 0%, #d9f5f5 100%);
 	color: #2f2c48;
 	font-size: 20px;
-	padding: 20px;
+}
+
+@media screen and (min-width: 500px) {
+	body {
+		padding: 20px;
+	}
+}
+@media screen and (max-width: 500px) {
+	body {
+		padding: 0;
+		margin: 0;
+	}
 }
 
 iframe {
@@ -73,12 +84,6 @@ iframe {
 	margin-top: -5px;
 }
 
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-
 .link-button {
 	appearance: none;
 	font-family: inherit;
@@ -104,12 +109,32 @@ iframe {
 	}
 }
 
-.column {
-	float: left;
-	width: 33.33%;
-	padding: 5px;
-	padding-bottom: 1px;
-	padding-top: 1px;
+@media screen and (min-width: 650px) {
+	.column {
+		float: left;
+		width: 33.33%;
+		padding: 5px;
+		padding-bottom: 1px;
+		padding-top: 1px;
+	}
+}
+@media screen and (min-width: 400px) and (max-width: 650px) {
+	.column {
+		float: left;
+		width: 50%;
+		padding: 5px;
+		padding-bottom: 1px;
+		padding-top: 1px;
+	}
+}
+@media screen and (max-width: 400px) {
+	.column {
+		float: left;
+		width: 100%;
+		padding: 5px;
+		padding-bottom: 1px;
+		padding-top: 1px;
+	}
 }
 
 .column img {
