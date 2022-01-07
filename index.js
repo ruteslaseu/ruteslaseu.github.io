@@ -41,7 +41,7 @@ for (let i = 0; i < json.rutes.length; i++) {
 	gridInnerHTML += "</a>";
 	gridInnerHTML += `<div class="name" style="background: ${getColor(
 		element
-	)}; ${getColor(element) === "#F9A73E" ? "color: #2f2c48;" : ""}">${
+	)}; ${getColor(element) === "#F9A73E" ? "color: #2f2c48; font-weight: 501;" : ""}">${
 		element.nom
 	}</div>`;
 	gridInnerHTML += `<div class="data">`;
