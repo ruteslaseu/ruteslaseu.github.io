@@ -54,7 +54,8 @@ function loadRoute(referenceName, variant) {
 	innerHTML += `<p>${element.variants[variant].descripció2}</p>`;
 	card.innerHTML = innerHTML;
 
-	download.innerHTML = `<a href="${element.variants[variant].gpx}"><button class="link-button"><img src="/assets/gpx-file-format-variant.png"></button></a>`;
+	download.innerHTML += `<a href="${element.variants[variant].gpx}"><button class="link-button"><img src="/assets/gpx-file-format-variant.png"></button></a>`;
+	download.innerHTML += `<a href="${element.variants[variant].wikiloc}" target="_Blank"><button class="link-button"><img src="/assets/wikiloc-icon.png"></button></a>`;
 }
 
 function loadVariant(variant){
