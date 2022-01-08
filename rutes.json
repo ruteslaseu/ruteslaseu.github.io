@@ -344,6 +344,15 @@
 					"estació": "Tot l'any",
 					"circular": "Sí",
 					"temps": 2.72
+				},
+				{
+					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell2.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FArcavell%2FArcavell2.gpx%22%5D%7D'></a></p></iframe>",
+					"gpx": "/Rutes/Arcavell/Arcavell2.gpx",
+					"estació": "Tot l'any",
+					"circular": "Semi",
+					"temps": 3.48
 				}
 			]
 		},
@@ -607,6 +616,31 @@
 					"estació": "Tot l'any",
 					"circular": "Sí",
 					"temps": 3.27
+				}
+			]
+		},
+		{
+			"referenceName": "Llirt",
+			"nom": "Llirt",
+			"dificultat": "Difícil",
+			"desnivell": 661,
+			"distancia": 24.1,
+			"pagina": "/Rutes/Llirt/",
+			"imatge": "/Images/MardisclaVilamitjanaImages/3.jpg",
+			"galeria": [
+				"/Images/MardisclaVilamitjanaImages/1.jpg",
+				"/Images/MardisclaVilamitjanaImages/2.jpg",
+				"/Images/MardisclaVilamitjanaImages/3.jpg"
+			],
+			"variants": [
+				{
+					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLlirt%2FLlirt.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FLlirt%2FLlirt.gpx%22%5D%7D'></a></p></iframe>",
+					"gpx": "/Rutes/Llirt/Llirt.gpx",
+					"estació": "Tot l'any",
+					"circular": "Sí",
+					"temps": 1.85
 				}
 			]
 		}
