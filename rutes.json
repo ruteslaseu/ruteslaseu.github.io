@@ -738,6 +738,32 @@
 					"temps": 1.4
 				}
 			]
+		},
+		{
+			"referenceName": "Nabiners",
+			"nom": "Nabiners",
+			"dificultat": "Moderada",
+			"desnivell": 471,
+			"distancia": 16.2,
+			"pagina": "/Rutes/Nabiners/",
+			"imatge": "/Images/NabinersImages/2.jpg",
+			"galeria": [
+				"/Images/NabinersImages/1.jpg",
+				"/Images/NabinersImages/2.jpg",
+				"/Images/NabinersImages/3.jpg"
+			],
+			"variants": [
+				{
+					"descripció1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"descripció2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At ultrices mi tempus imperdiet nulla malesuada pellentesque. A scelerisque purus semper eget duis. Pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Tortor id aliquet lectus proin nibh nisl. Libero id faucibus nisl tincidunt eget. Tempor orci eu lobortis elementum nibh tellus molestie. Lectus magna fringilla urna porttitor rhoncus. Nunc id cursus metus aliquam eleifend. Quis lectus nulla at volutpat diam ut venenatis tellus in. Lorem ipsum dolor sit amet consectetur adipiscing elit. Augue neque gravida in fermentum et. Fermentum iaculis eu non diam phasellus vestibulum lorem. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Ac placerat vestibulum lectus mauris ultrices eros. Id ornare arcu odio ut sem nulla. Nibh mauris cursus mattis molestie a iaculis at erat. Ut eu sem integer vitae justo. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet.",
+					"gpx_embed": "<iframe src='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FNabiners%2FNabiners.gpx%22%5D%7D&embed' width='100%' height='500' frameborder='0' allowfullscreen><p><a href='https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fruteslaseu.github.io%2FRutes%2FNabiners%2FNabiners.gpx%22%5D%7D'></a></p></iframe>",
+					"gpx": "/Rutes/Nabiners/Nabiners.gpx",
+					"wikiloc": "https://www.wikiloc.com/mountain-biking-trails/serra-darfa-92367577",
+					"estació": "Tot l'any",
+					"circular": "Semi",
+					"temps": 1.25
+				}
+			]
 		}
 	]
 }
