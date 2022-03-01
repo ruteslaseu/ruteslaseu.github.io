@@ -177,11 +177,11 @@
 			"desnivell": 660,
 			"distancia": 28.1,
 			"pagina": "/Rutes/SerraDArfa/",
-			"imatge": "/assets/OGCard.png",
+			"imatge": "/Images/SerraArfaImages/OG.jpg",
 			"galeria": [
-				"/assets/OGCard.png",
-				"/assets/OGCard.png",
-				"/assets/OGCard.png"
+				"/Images/SerraArfaImages/1.jpg",
+				"/Images/SerraArfaImages/2.jpg",
+				"/Images/SerraArfaImages/3.jpg"
 			],
 			"variants": [
 				{
