@@ -560,11 +560,11 @@
 			"desnivell": 122,
 			"distancia": 18.8,
 			"pagina": "/Rutes/PlaDeSantTirs/",
-			"imatge": "/assets/OGCard.png",
+			"imatge": "/Images/PlaDeSantTirsImages/1.jpg",
 			"galeria": [
-				"/assets/OGCard.png",
-				"/assets/OGCard.png",
-				"/assets/OGCard.png"
+				"/Images/PlaDeSantTirsImages/1.jpg",
+				"/Images/PlaDeSantTirsImages/2.jpg",
+				"/Images/PlaDeSantTirsImages/3.jpg"
 			],
 			"variants": [
 				{
